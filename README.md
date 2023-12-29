@@ -60,7 +60,7 @@
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
-* <img src="https://yandex.ru/images/search?text=html&pos=2&type=clipart&isize=small&rpt=simage&img_url=https%3A%2F%2Fworld-it.ro%2Fimages%2Flogo_html.png&lr=14" alt="bage html5"></img>
+* <img src="https://icons8.ru/icon/20909/html-5" alt="bage html5"></img>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
