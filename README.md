@@ -28,6 +28,9 @@
         <li><a href="#built-with">Используемые технологии</a></li>
       </ul>
     </li>
+    <li>
+      <a href="#контакты">Контакты</a>
+    </li>
   </ol>
 </details>
 
@@ -52,15 +55,16 @@
 
 ### Используемые технологии
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-* <img src="https://icons8.ru/icon/20909/html-5" alt="bage html5"></img>
+<img src="icons-readme/HTML5.png" alt="bage HTML"> <img src="icons-readme/JavaScript.png" alt="bage JS"> <img src="icons-readme/CSS3.png" alt="bage CSS">
+<img src="icons-readme/npm.png" alt="bage npm"> <img src="icons-readme/Webpack.png" alt="bage Webpack"> <img src="icons-readme/Gulp.png" alt="bage Gulp">
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Контакты
+
+Электронная почта - ilia.astahoff@yandex.ru
+
+Telegram: [https://t.me/iliaastahoff](https://t.me/iliaastahoff)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
