@@ -23,9 +23,9 @@
   <summary>Содержание</summary>
   <ol>
     <li>
-      <a href="#about-the-project">О проекте</a>
+      <a href="#о-проекте">О проекте</a>
       <ul>
-        <li><a href="#built-with">Используемые технологии</a></li>
+        <li><a href="#используемые-технологии">Используемые технологии</a></li>
       </ul>
     </li>
     <li>
